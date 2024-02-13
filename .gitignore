@@ -40,7 +40,7 @@ dist
 
 # Pgadmin4 data folder
 pgadmin4/pgadmin
-pgadmin4/data/*
+pgadmin4/data/*.txt
 
 postgres/data/*
 
